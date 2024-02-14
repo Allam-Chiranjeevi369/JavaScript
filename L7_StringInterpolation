@@ -1,0 +1,9 @@
+let print = 20;
+
+let str = `hello this is a testing, print = ${print}`; //print value is converted to string
+console.log(str);
+
+//we can also make it to print the expressions
+
+let st = `this is an expression = ${1 + 2 + 3}`;
+console.log(st);

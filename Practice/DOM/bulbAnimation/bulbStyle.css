@@ -1,0 +1,22 @@
+#bulb{
+
+    border-radius: 50%;
+    /* background-color: yellow; */
+    border: 5px solid black;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+#switch{
+
+    border-radius: 30px;
+    background-color: gray;
+    color: aliceblue;
+    height: 40px;
+    width: 100px;
+    margin: 50px;
+    margin-left: 40%;
+
+}

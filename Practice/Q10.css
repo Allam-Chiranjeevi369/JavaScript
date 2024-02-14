@@ -1,0 +1,18 @@
+*{
+
+    text-align: center;
+
+}
+
+.box{
+
+    height: 10rem;
+    width: 10rem;
+    margin: 2rem;
+    text-align: center;
+    background-color: rgb(36, 143, 132);
+    border-radius: 1rem;
+    border: solid black;
+    color: aliceblue;
+
+}
